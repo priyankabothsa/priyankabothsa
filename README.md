@@ -4,7 +4,7 @@
 **priyankabothsa/priyankabothsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+i am pursuing my B.tech final year at RGUKT AP IIIT ONGOLE
 - 🔭 I’m currently working on Flask
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on FullStack development and Sofware Development...
